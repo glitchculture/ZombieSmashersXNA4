@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapEditorZS", "MapEditorZS\MapEditorZS\MapEditorZS.csproj", "{DA5C6E0E-0906-4A42-8327-8135B3227BB3}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "MapEditorZSContent", "MapEditorZS\MapEditorZSContent\MapEditorZSContent.contentproj", "{3F24B881-4465-48EF-80C6-CAB2D2BCA600}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA5C6E0E-0906-4A42-8327-8135B3227BB3}.Debug|x86.ActiveCfg = Debug|x86
+		{DA5C6E0E-0906-4A42-8327-8135B3227BB3}.Debug|x86.Build.0 = Debug|x86
+		{DA5C6E0E-0906-4A42-8327-8135B3227BB3}.Release|x86.ActiveCfg = Release|x86
+		{DA5C6E0E-0906-4A42-8327-8135B3227BB3}.Release|x86.Build.0 = Release|x86
+		{3F24B881-4465-48EF-80C6-CAB2D2BCA600}.Debug|x86.ActiveCfg = Debug|x86
+		{3F24B881-4465-48EF-80C6-CAB2D2BCA600}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

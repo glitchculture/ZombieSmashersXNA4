@@ -1,0 +1,11 @@
+C:\Users\Alex\Desktop\MapEditorZS\MapEditorZS\MapEditorZS\bin\x86\Debug\Content\gfx\1x1.xnb
+C:\Users\Alex\Desktop\MapEditorZS\MapEditorZS\MapEditorZS\bin\x86\Debug\Content\gfx\maps1.xnb
+C:\Users\Alex\Desktop\MapEditorZS\MapEditorZS\MapEditorZS\bin\x86\Debug\Content\gfx\arial.xnb
+C:\Users\Alex\Desktop\MapEditorZS\MapEditorZS\MapEditorZS\bin\x86\Debug\Content\gfx\icons.xnb
+C:\Users\Alex\Desktop\MapEditorZS\MapEditorZS\MapEditorZS\bin\x86\Debug\Content\gfx\maps.zdx
+C:\Users\Alex\Desktop\MapEditorZS\MapEditorZS\MapEditorZS\bin\x86\Debug\MapEditorZS.exe
+C:\Users\Alex\Desktop\MapEditorZS\MapEditorZS\MapEditorZS\bin\x86\Debug\MapEditorZS.pdb
+C:\Users\Alex\Desktop\MapEditorZS\MapEditorZS\MapEditorZS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\MapEditorZS\MapEditorZS\MapEditorZS\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alex\Desktop\MapEditorZS\MapEditorZS\MapEditorZS\obj\x86\Debug\MapEditorZS.exe
+C:\Users\Alex\Desktop\MapEditorZS\MapEditorZS\MapEditorZS\obj\x86\Debug\MapEditorZS.pdb
